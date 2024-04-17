@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pavankalyan-bvv
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning ML,DL,LLM,s
 - 📫 How to reach me : pavankalyanbvv@gmail.com
 
 <!---
